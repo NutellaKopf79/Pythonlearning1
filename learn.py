@@ -1,2 +1,2 @@
-print("Hello Wolrd")
-print("This is just a test")
+Name = "John"
+Age = "21"
